@@ -74,7 +74,7 @@ body{
 }
 
 .app{
-    background: url(./BD_Lily_theme/img/bgi.jpeg);
+    background: url(https://raw.githubusercontent.com/Ezaaii/BD_Lily_theme/master/img/bgi.jpeg);
     background-size: cover;
 }
 .theme-dark .chat>.content,

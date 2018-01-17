@@ -32,6 +32,7 @@
     /* COLOURS */
     --black:#000000;
     --white:#FFFFFF;
+
     --green:#57B06D;
     --pink:#F495D1;
 
@@ -80,7 +81,7 @@ body{
 }
 
 .app{
-    background: url(https://i.imgur.com/lvIR30n.jpg);
+    background: url(./img/bgi.jpeg);
     background-size: cover;
 }
 .theme-dark .chat>.content,
@@ -621,7 +622,7 @@ img.emote{                                                                      
 /* SETTINGS MODAL */
 .callout-backdrop{                                                              /* Background behind modals */
     background-color: transparent !important;
-    background-image: url(https://i.imgur.com/lvIR30n.jpg);
+    background-image: url(./img/bgi.jpeg);
     background-size: cover;
     opacity: 0.9 !important;
 }

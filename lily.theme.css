@@ -74,7 +74,7 @@ body{
 }
 
 .app{
-    background: url(https://raw.githubusercontent.com/Ezaaii/BD_Lily_theme/master/img/bgi.jpeg);
+    background: url(https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/bgi.jpeg?raw=true);
     background-size: cover;
 }
 .theme-dark .chat>.content,
@@ -617,7 +617,7 @@ img.emote{                                                                      
 /* SETTINGS MODAL */
 .callout-backdrop{                                                              /* Background behind modals */
     background-color: transparent !important;
-    background-image: url(./BD_Lily_theme/img/bgi.jpeg);
+    background-image: url(https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/bgi.jpeg?raw=true);
     background-size: cover;
     opacity: 0.9 !important;
 }

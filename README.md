@@ -1,5 +1,6 @@
 # Lily's theme for BetterDiscord
 
+Lily's theme is a theme i made for BetterDiscordApp, a plugin for DiscordApp.
 ![](https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/aperture.PNG?raw=true)
 
 ### Download

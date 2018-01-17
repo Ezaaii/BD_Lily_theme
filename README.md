@@ -1,16 +1,27 @@
 # Lily's theme for BetterDiscord
 
+![](https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/aperture.PNG?raw=true)
+
 ### Download
-* Don't download now it has not even started. XD
+* Download/copy the .css file.
+* Paste it in the BetterDiscord's theme folder.
+* Activate the theme.
+* Voila!
 
 ### Version
  * 1.0.0 :
-      * Setting the basics with Tako's theme.
-      * Reading existing code.
-      * Changing pics url and creating personnal pictos.
-      * Changing colors.
+      * Set the basics with Tako's theme.
+      * Changed pics url and creating personnal pictos.
+      * Changed colors.
       * Additional notes : gonna work home bc i don't have BetterDiscord here.
+ * 1.0.1 :
+      * Changed the user list.
+      * Better color.
 
+### To do
+ * fix the background pic.
+ * fix the theme.
+ 
 ### Credits to
 [Tako](https://github.com/takosthings/battlefield) For the [Battlefield theme](https://github.com/takosthings/battlefield) base.
 

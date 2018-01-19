@@ -10,19 +10,20 @@ Lily's theme is a theme i made for BetterDiscordApp, a plugin for DiscordApp.
 * Voila!
 
 ### Version
- * 1.0.0 :
-      * Set the basics with Tako's theme.
-      * Changed pics url and creating personnal pictos.
-      * Changed colors.
-      * Additional notes : gonna work home bc i don't have BetterDiscord here.
- * 1.0.1 :
-      * Changed the user list.
-      * Better color.
+  * 1.0.0 :
+    * Set the basics with Tako's theme.
+    * Changed pics url and creating personnal pictos.
+    * Changed colors.
+    * Additional notes : gonna work home bc i don't have BetterDiscord here.
+  * 1.0.1 :
+    * Changed the user list.
+    * Better color.
+  * 1.0.2 :
+    * Changed the top bar's color.
+    * Modified the status in the user list.
+    * Added a separator in the channels list.
+    * Modified the picture in the profile toolbar.
 
-### To do
- * fix the background pic.
- * fix the theme.
- 
 ### Credits to
 [Tako](https://github.com/takosthings/battlefield) For the [Battlefield theme](https://github.com/takosthings/battlefield) base.
 

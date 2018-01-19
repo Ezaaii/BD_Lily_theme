@@ -590,6 +590,8 @@ img.emote{                                                                      
     bottom: -2px;
     height: 60px;
     width: 7px;
+    position: absolute;
+    pointer-events: none;
 }
 .status.status-typing{
     right: 0px !important;

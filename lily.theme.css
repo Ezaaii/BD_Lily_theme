@@ -27,6 +27,7 @@
     --black:#000000;
     --white:#FFFFFF;
     --pink:#BD3E66;
+    --pink-light:#D64674;
     --green:#57B06D;
 
     /* RGBA */
@@ -89,7 +90,7 @@ body{
 /* TITLE BAR */
 .theme-dark .chat .title-wrap,
 .chat>.title-wrap{
-    background: var(--a-black-dark);
+    background: var(--pink);
     box-shadow: none;
     border-bottom: none;
     margin-bottom: 1px;
@@ -115,18 +116,18 @@ body{
     color: var(--white) !important;
 }
 .guild-header header{                                                           /* Server header */
-    background-color:var(--a-black-dark);
+    background-color:var(--pink);
     box-shadow: none;
     height: 50px;
     padding: 0 20px;
      font-family: 'Purista', sans-serif;
 }
 .guild-header header:hover{
-    background-color: var(--a-black-dark);
+    background-color: var(--a-black-light);
 }
 .guild-header ul{                                                               /* Server header dropdown menu */
     top: 15px;
-    background: var( --a-black-dark);
+    background: var( --pink-light);
 }
 .guild-header.guild-header-open ul{                                             /* Server header downdown menu when opened */
     margin-top: 35px;
@@ -141,7 +142,7 @@ body{
     border-radius: 0;
 }
 .header-toolbar button.active{                                                  /* Toolbar button toggled */
-    background: var(--a-white-dark);
+    background: var(--a-white-light);
 }
 .header-toolbar .separator{                                                     /* Toolbar button separator */
     background: var(--a-white-dark);
@@ -1171,7 +1172,7 @@ div.control-group .shortcut-recorder input[type=text]{                          
 /* FRIENDS */
 .theme-dark #friends .friends-header,
 #friends .friends-header{                                                       /* Title bar */
-    background: var(--a-black-dark);
+    background: var(--pink);
     height: 50px;
     margin-bottom: 1px;
     border: none;

@@ -1982,7 +1982,7 @@ div.control-group .shortcut-recorder input[type=text]{                          
     border-radius: 0;
 }
 #user-profile-modal .header{                                                    /* Profile header */
-    background: var(--a-black-dark);
+    background: var(--pink);
 }
 #user-profile-modal .header .discord-tag .username{                             /* Username */
     color: var(--pink);

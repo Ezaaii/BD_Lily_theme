@@ -1,10 +1,4 @@
-//META{
-  "name":"Lily's theme",
-  "description":"Lily's theme. <br><a href='#' target='_BLANK'>Github Repo</a> Based on <a href='https://github.com/takosthings/battlefield' target='_BLANK'>Battlefield theme</a>.<br> from <a href='https://github.com/takosthings/battlefield' target='_BLANK'>Tako</a>",
-  "author":"<a href='https://github.com/Ezaaii' target='_BLANK'>Ezaaii</a>",
-  "version":"1.0.0"
-}
-*//{}
+//META{"name":"Lily's theme","description":"Lily's theme. <br><a href='#' target='_BLANK'>Github Repo</a> Based on <a href='https://github.com/takosthings/battlefield' target='_BLANK'>Battlefield theme</a>.<br> from <a href='https://github.com/takosthings/battlefield' target='_BLANK'>Tako</a>","author":"<a href='https://github.com/Ezaaii' target='_BLANK'>Ezaaii</a>","version":"1.0.0"}*//{}
 
 @font-face {
     font-family: 'Purista';
@@ -32,8 +26,8 @@
     /* COLOURS */
     --black:#000000;
     --white:#FFFFFF;
+    --pink:#BD3E66;
     --green:#57B06D;
-    --pink:#F495D1;
 
     /* RGBA */
     --a-black-dark:rgba(7, 7, 7, 0.8);
@@ -80,7 +74,7 @@ body{
 }
 
 .app{
-    background: url(./img/bgi.jpeg);
+    background: url(https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/bgi.jpeg?raw=true);
     background-size: cover;
 }
 .theme-dark .chat>.content,
@@ -555,7 +549,7 @@ img.emote{                                                                      
   display: none;
 }
 .channel-members .member .member-username{                                      /* Usernames */
-     font-family: 'Purista', sans-serif;
+    font-family: 'Purista', sans-serif;
     color: #CCC;
 }
 .theme-dark .channel-members .member.popout-open,
@@ -570,17 +564,19 @@ img.emote{                                                                      
     font-size: 13px;
     font-weight: normal;
     text-transform: none;
+    text-align:center;
     letter-spacing: normal;
-    padding: 0 10px;
-    margin: 5px 0;
+    padding: 5px 10px;
+    margin: 0px 0;
+    background-color:var(--pink);
 }
 .channel-members .member{                                                       /* Member */
-    padding: 1px 10px 0;
+    padding: 30px 0px;
 }
 .channel-members .avatar-small{                                                 /* Members list avatars */
-    width: 50px;
-    height: 50px;
-    background-size: 50px 50px;
+    width: 60px;
+    height: 60px;
+    background-size: 60px 60px;
     border-radius: 0;
 }
 .channel-members .avatar-small .status{                                         /* Members list status indicators */
@@ -621,7 +617,7 @@ img.emote{                                                                      
 /* SETTINGS MODAL */
 .callout-backdrop{                                                              /* Background behind modals */
     background-color: transparent !important;
-    background-image: url(./img/bgi.jpeg);
+    background-image: url(https://github.com/Ezaaii/BD_Lily_theme/blob/master/img/bgi.jpeg?raw=true);
     background-size: cover;
     opacity: 0.9 !important;
 }
@@ -1425,13 +1421,13 @@ div.control-group .shortcut-recorder input[type=text]{                          
     line-height: normal;
 }
 .create-guild-container .action.create .action-icon{                            /* Create image */
-    background: url(./img/plus.png);
+    background: url(./BD_Lily_theme/img/plus.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 40%;
 }
 .create-guild-container .action.join .action-icon{                              /* Join image */
-    background: url(./img/link.png);
+    background: url(./BD_Lily_theme/img/link.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 40%;
